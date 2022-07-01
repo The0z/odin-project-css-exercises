@@ -1,0 +1,10 @@
+/* Method 1
+.container .text {
+    background-color: yellow;
+}
+*/
+
+/* Method 2 */
+div .text {
+    background-color: yellow;
+}
