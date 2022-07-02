@@ -34,7 +34,7 @@ body {
 button {
   display: block;
   background: white;
-  margin: 0 auto;
+  margin: 0 auto; 
   padding: 8px 24px;
   border: 1px solid #eee;  
 }
